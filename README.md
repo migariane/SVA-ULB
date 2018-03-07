@@ -6,7 +6,7 @@ Time-to-event data appears in many research areas such as medicine, epidemiology
 1. Presentation  
 2. Exercises  
 3. Stata markdown (code and output)
-4.  
+4. Data
 5. http://watzilei.com/shiny/   
 ## References
 1.  Aalen, O. 1978. Nonparametric inference for a family of counting processes. Annals of Statistics 6: 701-726.  
