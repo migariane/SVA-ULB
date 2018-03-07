@@ -13,7 +13,7 @@ Time-to-event data appears in many research areas such as medicine, epidemiology
 2.  Breslow, N. E. 1970. A generalized Kruskal-Wallis test for comparing K samples subject to unequal patterns of
 censorship. Biometrika 57: 579-594.  
 3.  Colosimo, E., F. Ferreira, M. Oliveira, and C. Sousa. 2002. Empirical comparisons between Kaplan-Meier and
-Nelson-Aalen survival function estimators. Journal of Statistical Computation and Simulation 72: 299€-308.  
+Nelson-Aalen survival function estimators. Journal of Statistical Computation and Simulation 72: 299-308.  
 4.  Hosmer, D. W., Jr., S. A. Lemeshow, and S. May. 2008. Applied Survival Analysis: Regression Modeling of
 Time to Event Data. 2nd ed. New York: Wiley.  
 5.  Kaplan, E. L., and P. Meier. 1958. Nonparametric estimation from incomplete observations. Journal of the
