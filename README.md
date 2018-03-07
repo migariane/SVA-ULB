@@ -11,7 +11,7 @@ Time-to-event data appears in many research areas such as medicine, epidemiology
 ## References
 1.  Aalen, O. 1978. Nonparametric inference for a family of counting processes. Annals of Statistics 6: 701-726.  
 2.  Breslow, N. E. 1970. A generalized Kruskal-Wallis test for comparing K samples subject to unequal patterns of
-censorship. Biometrika 57: 579-€“594.  
+censorship. Biometrika 57: 579-594.  
 3.  Colosimo, E., F. Ferreira, M. Oliveira, and C. Sousa. 2002. Empirical comparisons between Kaplan-Meier and
 Nelson-Aalen survival function estimators. Journal of Statistical Computation and Simulation 72: 299€-308.  
 4.  Hosmer, D. W., Jr., S. A. Lemeshow, and S. May. 2008. Applied Survival Analysis: Regression Modeling of
@@ -39,7 +39,7 @@ Association 72: 557-565.
 Technical Bulletin 35: 9-14. Reprinted in Stata Technical Bulletin Reprints, vol. 6, pp. 38-€“44. College Station,
 TX: Stata Press.  
 18. Grambsch, P. M., and T. M. Therneau. 1994. Proportional hazards tests and diagnostics based on weighted
-residuals. Biometrika 81: 515-€“526.  
+residuals. Biometrika 81: 515-526.  
 19. Hess, K. R. 1995. Graphical methods for assessing violations of the proportional hazards assumption in Cox
 regression. Statistics in Medicine 14: 1707-€“1723.  
 20. Royston, P., and P. C. Lambert. 2011. Flexible Parametric Survival Analysis Using Stata: Beyond the Cox
