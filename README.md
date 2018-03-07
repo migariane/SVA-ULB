@@ -23,19 +23,19 @@ American Statistical Association 53: 457-481.
 7.  Nelson, W. 1972. Theory and applications of hazard plotting for censored failure data. Technometrics 14: 945-965.  
 8. Peto, R., and J. Peto. 1972. Asymptotically efficient rank invariant test procedures. Journal of the Royal
 Statistical Society, Series A 135: 185-207.    
-9. Prentice, R. L. 1978. Linear rank tests with right censored data. Biometrika 65: 167â€“179.  
+9. Prentice, R. L. 1978. Linear rank tests with right censored data. Biometrika 65: 167-179.  
 10. Tarone, R. E., and J. H. Ware. 1977. On distribution-free tests for equality of survival distributions. Biometrika
 64: 156-1.  
-11. Breslow, N. 1974. Covariance analysis of censored survival data. Biometrics 30: 89â€“99.
+11. Breslow, N. 1974. Covariance analysis of censored survival data. Biometrics 30: 89-99.
 12. Cleves, M., W. Gould, R. G. Gutierrez, and Y. V. Marchenko. 2010. An Introduction to Survival Analysis Using
 Stata. 3rd ed. College Station, TX: Stata Press.  
 13. Collett, D. 2003. Modelling Survival Data in Medical Research. 2nd ed. London: Chapman & Hall/CRC.
 14. Cox, D. R. 1972. Regression models and life-tables. Journal of the Royal Statistical Society, Series B 34: 187-
-220.  
+220.   
 15. Cox, D. R., and E. J. Snell. 1968. A general definition of residuals. Journal of the Royal Statistical Society,
-Series B 30: 248-275.  
+Series B 30: 248-275.    
 16. Efron, B. 1977. The efficiency of Cox's likelihood function for censored data. Journal of the American Statistical
-Association 72: 557-565.  
+Association 72: 557-565.    
 17. Garrett, J. M. 1997. gr23: Graphical assessmenat of the Cox model proportional hazards assumption. Stata
 Technical Bulletin 35: 9-14. Reprinted in Stata Technical Bulletin Reprints, vol. 6, pp. 38-€“44. College Station,
 TX: Stata Press.  
