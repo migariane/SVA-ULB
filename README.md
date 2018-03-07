@@ -4,10 +4,9 @@
 Time-to-event data appears in many research areas such as medicine, epidemiology, engineering, biology, and finance, to name but a few. For instance, modeling and understanding the survival times of cancer patients has become an important aim of many countries. In statistical terms, times-to-event correspond to a sample of positive observations, possibly censored due to lost of follow-up or administrative censoring. These observations represent either the time at which the event of interest happens (e.g. death of a patient or failure of an electric device) or the last time of follow-up. There exist several approaches to model time to event data, such as nonparametric, semi-parametric, and parametric methods. 
 ## Contents  
 1. Presentation  
-2. Exercises  
-3. Stata markdown (code and output)
-4. Data
-5. http://watzilei.com/shiny/   
+2. Exercises  and data.  
+3. Stata markdown (code and output): https://migariane.github.io/Tutorial-SVA-ULB.html    
+5. Parametric survival distributions: http://watzilei.com/shiny/    
 ## References
 1.  Aalen, O. 1978. Nonparametric inference for a family of counting processes. Annals of Statistics 6: 701-726.  
 2.  Breslow, N. E. 1970. A generalized Kruskal-Wallis test for comparing K samples subject to unequal patterns of
