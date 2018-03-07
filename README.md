@@ -31,7 +31,7 @@ Statistical Society, Series A 135: 185-207.
 Stata. 3rd ed. College Station, TX: Stata Press.  
 13. Collett, D. 2003. Modelling Survival Data in Medical Research. 2nd ed. London: Chapman & Hall/CRC.
 14. Cox, D. R. 1972. Regression models and life-tables. Journal of the Royal Statistical Society, Series B 34: 187-
-220.   
+220.  
 15. Cox, D. R., and E. J. Snell. 1968. A general definition of residuals. Journal of the Royal Statistical Society,
 Series B 30: 248-275.    
 16. Efron, B. 1977. The efficiency of Cox's likelihood function for censored data. Journal of the American Statistical
