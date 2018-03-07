@@ -36,11 +36,11 @@ Series B 30: 248-275.
 16. Efron, B. 1977. The efficiency of Cox's likelihood function for censored data. Journal of the American Statistical
 Association 72: 557-565.    
 17. Garrett, J. M. 1997. gr23: Graphical assessmenat of the Cox model proportional hazards assumption. Stata
-Technical Bulletin 35: 9-14. Reprinted in Stata Technical Bulletin Reprints, vol. 6, pp. 38-€“44. College Station,
+Technical Bulletin 35: 9-14. Reprinted in Stata Technical Bulletin Reprints, vol. 6, pp. 38-44. College Station,
 TX: Stata Press.  
 18. Grambsch, P. M., and T. M. Therneau. 1994. Proportional hazards tests and diagnostics based on weighted
 residuals. Biometrika 81: 515-526.  
 19. Hess, K. R. 1995. Graphical methods for assessing violations of the proportional hazards assumption in Cox
-regression. Statistics in Medicine 14: 1707-€“1723.  
+regression. Statistics in Medicine 14: 1707-1723.  
 20. Royston, P., and P. C. Lambert. 2011. Flexible Parametric Survival Analysis Using Stata: Beyond the Cox
 Model. College Station, TX: Stata Press.  
