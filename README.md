@@ -10,7 +10,7 @@ Time-to-event data appears in many research areas such as medicine, epidemiology
 5. http://watzilei.com/shiny/   
 ## References
 1.  Aalen, O. 1978. Nonparametric inference for a family of counting processes. Annals of Statistics 6: 701-726.  
-2.  Breslow, N. E. 1970. A generalized Kruskalâ€“Wallis test for comparing K samples subject to unequal patterns of
+2.  Breslow, N. E. 1970. A generalized Kruskal-Wallis test for comparing K samples subject to unequal patterns of
 censorship. Biometrika 57: 579-€“594.  
 3.  Colosimo, E., F. Ferreira, M. Oliveira, and C. Sousa. 2002. Empirical comparisons between Kaplan-Meier and
 Nelson-Aalen survival function estimators. Journal of Statistical Computation and Simulation 72: 299€-308.  
@@ -30,8 +30,7 @@ Statistical Society, Series A 135: 185-207.
 12. Cleves, M., W. Gould, R. G. Gutierrez, and Y. V. Marchenko. 2010. An Introduction to Survival Analysis Using
 Stata. 3rd ed. College Station, TX: Stata Press.  
 13. Collett, D. 2003. Modelling Survival Data in Medical Research. 2nd ed. London: Chapman & Hall/CRC.
-14. Cox, D. R. 1972. Regression models and life-tables. Journal of the Royal Statistical Society, Series B 34: 187-
-220.  
+14. Cox, D. R. 1972. Regression models and life-tables. Journal of the Royal Statistical Society, Series B 34.  
 15. Cox, D. R., and E. J. Snell. 1968. A general definition of residuals. Journal of the Royal Statistical Society,
 Series B 30: 248-275.    
 16. Efron, B. 1977. The efficiency of Cox's likelihood function for censored data. Journal of the American Statistical
