@@ -6,7 +6,7 @@ Time-to-event data appears in many research areas such as medicine, epidemiology
 1. Presentation  
 2. Exercises  and data.  
 3. Stata markdown (code and output): https://migariane.github.io/Tutorial-SVA-ULB.html    
-5. Parametric survival distributions: http://watzilei.com/shiny/    
+5. Parametric survival distributions: http://watzilei.com/shiny/Pardist/    
 ## References
 1.  Aalen, O. 1978. Nonparametric inference for a family of counting processes. Annals of Statistics 6: 701-726.  
 2.  Breslow, N. E. 1970. A generalized Kruskal-Wallis test for comparing K samples subject to unequal patterns of
